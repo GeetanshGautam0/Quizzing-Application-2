@@ -1,0 +1,1 @@
+python -m PyInstaller -w -F -i ".icons\setup.ico" "qaInstallation_finish.py" --hidden-import pkg_resources

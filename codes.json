@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "Error Codes for Quizzing Application S V2.xx"
+  ],
+
+  "FTSRA_INCOMPLETE_FILES": "CMF_QA_INC_INSTL::fts_incFiles",
+  "QAADMT_CANNOT_READ_CONFIG": "CMF_QA_QAADMT_CR::CONFIGURATION",
+  "QAADMT_NO_CONFIG_FILE": "CMF_QA_QAADMT_NF::CONFIGURATION",
+
+  "QAADMT_CANNOT_DETERMINE_QUICK-THEME_FILENAME" :  "CMF_QA_QAADMT_QUICK_THEME::CDFP",
+
+  "info": {
+
+    "CMF_QA_INC_INTL::fts_incFiles": "CMF_QA_INC_INSTL::fts_incFiles means that not all files required are found in the QAFTSRA folder in the install location (fatal)",
+    "CMF_QA_QAADMT_CR::CONFIGURATION": "CMF_QA_QAADMT_CR::CONFIGURATION means that the Administrator Tools Application was unable to read data correctly from the configuration file (fatal)",
+    "CMF_QA_QAADMT_NF::CONFIGURATION": "CMF_QA_QAADMT_NF::CONFIGURATION means that the Administrator Tools Application was unable to loacate the configuration file (fatal)",
+    "CMF_QA_QAADMT_QUICK_THEME::CDFP": "CMF_QA_QAADMT_QUICK_THEME::CDFP means that the Administrator Tools Application's Quick Theme feature was unable to determine the filename for the theme requested (non-fatal)"
+
+  }
+
+}
