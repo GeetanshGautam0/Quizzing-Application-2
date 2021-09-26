@@ -6,16 +6,16 @@
 <br>
 
 # Links
-<!-- <button style="bg=#ff0000", onclick="https://codingmadefun.wixsite.com/home/qa-ver2-product-page">
+<!-- <button style="bg=#ff0000", onclick="https://geetanshgautam.wixsite.com/home/qa-ver2-product-page">
 Product Page
 </button> -->
-<!-- [Product Page](https://codingmadefun.wixsite.com/qa-ver2-product-page) -->
+<!-- [Product Page](https://geetanshgautam.wixsite.com/qa-ver2-product-page) -->
 <center><h2><a href="https://github.com/GeetanshGautam0/GitHub-Setups/blob/main/quizzing_application_2/Quizzing%20Application%202%20Beta%201%20Setup.exe?raw=true" target="_">Download Quizzing App (Beta 01)</a></h2></center>
 <a href="https://github.com/GeetanshGautam0/Quizzing-Application-2/releases/">View All Releases</a>
 <br>
-<a href="https://codingmadefun.wixsite.com/home/qa-ver2-product-page">Official Product Page</a>
+<a href="https://geetanshgautam.wixsite.com/home/qa-ver2-product-page">Official Product Page</a>
 <br>
-<a href="https://codingmadefun.wixsite.com/home">Coding Made Fun <strong>[UNDER DEVELOPMENT]</strong></a>
+<a href="https://geetanshgautam.wixsite.com/home">Official Website <strong>[UNDER DEVELOPMENT]</strong></a>
 
 <br>
 <br>
