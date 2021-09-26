@@ -166,6 +166,8 @@ Product Page
     </ol>
 </details>
 
+<br>
+
 <h2><strong>Quizzing Form</strong></h2>
 <details>
     <summary>
@@ -188,6 +190,8 @@ Product Page
         </li>
     </ol>
 </details>
+
+<br>
 
 <h2><strong>Recovery Utilities</strong></h2>
 <details>
@@ -214,6 +218,8 @@ Product Page
         </li>
     </ol>
 </details>
+
+<br>
 
 <h2><strong>Theming Utility</strong></h2>
 <details>
