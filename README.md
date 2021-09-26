@@ -17,7 +17,7 @@ Product Page
 <br>
 <a href="https://geetanshgautam.wixsite.com/home">Official Website <strong>[UNDER DEVELOPMENT]</strong></a>
 <br>
-<a href="https://geetanshgautam0.github.io/cmf-qas">Source Code</strong>
+<a href="https://geetanshgautam0.github.io/cmf-qas">Source Code</a>
 
 <br>
 <br>
