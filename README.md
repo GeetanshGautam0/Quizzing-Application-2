@@ -19,7 +19,7 @@ Product Page
 <br>
 
 # What's Included?
-<p>Execultables included in the basic installation:</p>
+<h2>Execultables included in the basic installation:</h2>
 <table>
     <tr>
         <th><center>Executable Name</center></th>
