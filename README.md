@@ -29,10 +29,44 @@ Product Page
         <td><h3><center><strong>Quizzing Application Administrator Tools</strong></center></h3></td>
         <td><center><img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/qas/master/.icons/admin_tools.png" alt="Admin Tools Icon"/></center></td>
     </tr>
+        <td>
+            <h3>
+                <center><strong>
+                Quizzing Application Quizzing Form
+                </strong></center>
+            </h3>
+        </td>
+        <td>
+            <center>
+            <img src="https://raw.githubusercontent.com/GeetanshGautam0/qas/master/.icons/quizzing_tool.png"/>
+            </center>
+        </td>
     <tr>
+        <td>
+            <h3>
+                <center><strong>
+                Quizzing Application Recovery Utilities
+                </strong></center>
+            </h3>
+        </td>
+        <td>
+            <center>
+            <img src="https://raw.githubusercontent.com/GeetanshGautam0/qas/master/.icons/ftsra.png"/>
+            </center>
+        </td>
     </tr>
     <tr>
-    </tr>
-    <tr>
+        <td>
+            <h3>
+                <center><strong>
+                Quizzing Application Theming Utility
+                </strong></center>
+            </h3>
+        </td>
+        <td>
+            <center>
+            <img src="https://raw.githubusercontent.com/GeetanshGautam0/qas/master/.icons/themer.png"/>
+            </center>
+        </td>
     </tr>
 </table>
