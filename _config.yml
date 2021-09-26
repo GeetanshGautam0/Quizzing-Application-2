@@ -2,3 +2,4 @@ title: Quizzing App v2
 theme: jekyll-theme-minimal
 show_downloads: true
 logo: https://raw.githubusercontent.com/GeetanshGautam0/Quizzing-Application-2/master/.icons/quizzing_tool.png
+site_favicon: .icons/favicon.ico
