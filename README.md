@@ -114,6 +114,27 @@ Product Page
     </tr>
 </table>
 
+<br>
+
+# Changes
+<p>It's difficult to list all the changes made in a concise manner; the following is only a brief compilation of some of the most important changes.</p>
+<ul>
+    <li><strong>Help files</strong> have been added where needed.</li>
+    <li>Less buggy, more secure quizzing form.</li>
+    <li>Removed an exploit that allowed the quiz taker to exit the form during the quiz.</li>
+    <li>Most files are now encrypted.</li>
+    <li>Scores and other human-readable data will now be exported as a PDF file.</li>
+    <li>Faster, more fluid experience.</li>
+    <li>Much better and cleaner UI for better UX.</li>
+    <li>Logging of ciritcal debug data for troubleshooting.</li>
+    <li>Importing, exporting, and editing theme available in 'QA Theming Utility'</li>
+    <li>And MUCH more..</li>
+</ul>
+
+<br>
+
+# Changes to Specific Applications
+
 <!-- Put the following in at the end -->
 
 <br>
