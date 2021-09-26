@@ -24,10 +24,12 @@ Product Page
     <tr>
         <th><center>Executable Name</center></th>
         <th><center>Executable Icon</center></th>
+        <th><center>Purpose</center></th>
     </tr>
     <tr>
         <td><h3><center><strong>Quizzing Application Administrator Tools</strong></center></h3></td>
         <td><center><img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/qas/master/.icons/admin_tools.png" alt="Admin Tools Icon"/></center></td>
+        <td><center>Creating and editing quizzes, reading quiz results.</center></td>
     </tr>
         <td>
             <h3>
@@ -41,6 +43,7 @@ Product Page
             <img src="https://raw.githubusercontent.com/GeetanshGautam0/qas/master/.icons/quizzing_tool.png"/>
             </center>
         </td>
+        <td><center>Presenting the quiz with a secure form.</center></td>
     <tr>
         <td>
             <h3>
@@ -54,6 +57,7 @@ Product Page
             <img src="https://raw.githubusercontent.com/GeetanshGautam0/qas/master/.icons/ftsra.png"/>
             </center>
         </td>
+        <td><center>Diagnosing application files.</center></td>
     </tr>
     <tr>
         <td>
@@ -68,6 +72,7 @@ Product Page
             <img src="https://raw.githubusercontent.com/GeetanshGautam0/qas/master/.icons/themer.png"/>
             </center>
         </td>
+        <td><center>Customizing the theme for all applications.</center></td>
     </tr>
 </table>
 
