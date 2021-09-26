@@ -139,14 +139,216 @@ Product Page
 
 # Changes to Specific Applications
 
-<h2>Administrator Tools</h2>
-<h2>Quizzing Form</h2>
-<h2>Recovery Utilities</h2>
-<h2>Theming Utility</h2>
+<strong><h2>Administrator Tools</h2></strong>
+<details>
+    <summary>
+        Show changes to 'QA Admin Tools'
+    </summary>
+    <p>
+        <center>
+            <h2>Showing changes to 'QA Admin Tools.'</h2>
+        </center>
+    </p>
+    <ol>
+        <li>
+            Added a dedicated UI to add questions; no more fiddling around with confusing text files.
+        </li>
+        <li>
+           You may now use the following characters, which were previously reserved by the system:
+           <ul>
+                <li>|</li>
+                <li>`</li>
+           </ul>
+        </li>
+        <li>
+           You may now include the characters "|" and "`" which were previously reserved by the application. 
+        </li>
+    </ol>
+</details>
+
+<strong><h2>Quizzing Form</h2></strong>
+<details>
+    <summary>
+        Show changes to 'QA Quizzing Form'
+    </summary>
+    <p>
+        <center>
+            <h2>Showing changes to 'QA Quizzng Form.'</h2>
+        </center>
+    </p>
+    <ol>
+        <li>
+            Improved credential and question databse management and distribution
+        </li>
+        <li> 
+            The form no longer will allow the user to temporarly exit the quizzing form and open other windows during error sequences, unlike version 1.5 and before 
+        </li>
+        <li> 
+            Multiple choice questions will now utilize Radio Buttons for an input. 
+        </li>
+    </ol>
+</details>
+
+<strong><h2>Recovery Utilities</h2></strong>
+<details>
+    <summary>
+        Show changes to 'QA Recovery Utilities'
+    </summary>
+    <p>
+        <center>
+            <h2>Showing changes to 'QA Recovery Utilities.'</h2>
+        </center>
+    </p>
+    <ol>
+        <li> 
+            The utility should now be able to copy directories and their sub-directories 
+        </li>
+        <li> 
+            The utility will now allow the user to now overwrite all application-related files if they choose to do so. 
+        </li>
+        <li> 
+            Added "Help Me" PDF 
+        </li>
+        <li> 
+            Added internal file checks 
+        </li>
+    </ol>
+</details>
+
+<strong><h2>Theming Utility</h2></strong>
+<details>
+    <summary>
+        Show changes to 'QA Theming Utility'
+    </summary>
+    <p>
+        <center>
+            <h2>Showing changes to 'QA Theming Utility.'</h2>
+        </center>
+    </p>
+    <ol>
+        <li> 
+            Added text previews besides the buttons 
+        </li>
+        <li>
+            Cleaner UI than 1.xx TU 
+        </li>
+        <li> 
+            Font size and font face changing for the user (size applies to buttons and paragraphs only). 
+        </li>
+        <li> 
+            Minor change: the restore button will have an inverted foreground in respect to the background to ensure that it can be seen at all times. 
+        </li>
+    </ol>
+</details>
+<ul>
+    <li> 
+        Note that most font-related items are not shown very well in the TU (or FTSRA) 
+    </li>
+    <li> 
+        Note that the UI appears glitchy when refreshing UI because of the theme applying code and the odd method of adding widgets to the app.
+    </li>
+</ul>
+
+<br>
+
+# Other Information
+
+<details>
+  
+  <summary>FileIOHandler Performance With Different Encodings</summary>
+  
+  <p>Take note of the exponent labeled above the fourth graph</p>
+  
+  <b><h2>UTF-7</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/utf7.png">
+  
+  <b><h2>UTF-8</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/utf8.png">
+  
+  <b><h2>UTF-16</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/utf16.png">
+  
+  <b><h2>UTF-32</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/utf32.png">
+  
+  <b><h2>ASCII</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/ascii.png">
+  
+  <b><h2>CP936</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/cp936.png">
+  
+  <b><h2>EUCJP</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/eucjp.png">
+  
+  <b><h2>IBM437</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/ibm437.png">
+  
+  <b><h2>IBM869</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/ibm869.png">
+  
+  <b><h2>ISO-2022-JP-EXT</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/iso-2022-jp-ext.png">
+  
+  <b><h2>MS932</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/ms932.png">
+  
+  <b><h2>L1</h2></b>
+  <img src="https://raw.githubusercontent.com/GeetanshGautam-CodingMadeFun/cmfvers/master/qas/L1.png">
+  
+</details>
+
+<details>
+
+<summary>The Installation Process</summary>
+<p>
+    In <strong>QAS 1.5x</strong>'s installation process, one had to manually move files using the FTSRA, however, a new module (<strong>qaInstallation_finish.exe</strong>) has been added to automatically move the files; it can also be used to reset corrupted files if the <strong>FTSRA Utility</strong> fails to work.
+</p>
+
+</details>
+
+<br>
+
+# Resources
+
+<strong>
+<a href="https://codingmadefun.wixsite.com/database/qas-bug-report-form">Report a Bug</a></strong>
+
+
+```
+https://geetanshgautam.wixsite.com/database/qas-bug-report-form
+```
+
+
+<strong>
+<a href="https://github.com/GeetanshGautam-CodingMadeFun/qas/releases/tag/installer_1.1">Installer Part 2 (To fix extremely corrupted files)</a></strong>
+
+
+```
+https://github.com/geetanshgautam0/qas/releases/tag/installer_1.1
+```
+
+
+<strong>
+<a href="https://bit.ly/cmfprojects">Other Projects</a></strong>
+
+
+```
+https://bit.ly/cmfprojects
+```
+
+<strong>
+<a href="https://bit.ly/cmf-home">The Official Website</a></strong>
+
+
+```
+https://bit.ly/cmf-home
+```
+
+
 
 <!-- Put the following in at the end -->
 
 <br>
 <br>
-<center><h2>Try out the appliation;</h2></center>
+<center><h2>Try out the appliation</h2></center>
 <center><h2><a href="https://github.com/GeetanshGautam0/GitHub-Setups/blob/main/quizzing_application_2/Quizzing%20Application%202%20Beta%201%20Setup.exe?raw=true" target="_">Download Quizzing App (Beta 01)</a></h2></center>
