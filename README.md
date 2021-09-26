@@ -8,8 +8,7 @@
 Product Page
 </button> -->
 <!-- [Product Page](https://codingmadefun.wixsite.com/qa-ver2-product-page) -->
+<h2><a href="https://github.com/GeetanshGautam0/Quizzing-Application-2/releases/tag/beta01" download="download">Download Quizzing App</a></h2>
 <a href="https://codingmadefun.wixsite.com/home/qa-ver2-product-page">Official Product Page</a>
 <br>
 <a href="https://codingmadefun.wixsite.com/home">Coding Made Fun</a>
-<br>
-<a href="https://geetanshgautam0.github.io/Quizzing-Application-2">Download Quizzing App</a>
