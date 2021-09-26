@@ -139,6 +139,11 @@ Product Page
 
 # Changes to Specific Applications
 
+<h2>Administrator Tools</h2>
+<h2>Quizzing Form</h2>
+<h2>Recovery Utilities</h2>
+<h2>Theming Utility</h2>
+
 <!-- Put the following in at the end -->
 
 <br>
