@@ -11,7 +11,7 @@ Product Page
 </button> -->
 <!-- [Product Page](https://geetanshgautam.wixsite.com/qa-ver2-product-page) -->
 <center><h2><a href="https://github.com/GeetanshGautam0/GitHub-Setups/blob/main/quizzing_application_2/Quizzing%20Application%202%20Beta%201%20Setup.exe?raw=true" target="_">Download Quizzing App (Beta 01)</a></h2></center>
-<a href="https://github.com/GeetanshGautam0/Quizzing-Application-2/releases/">View All Releases</a>
+<a href="https://github.com/GeetanshGautam0/cmf-qas/releases/">View All Releases</a>
 <br>
 <a href="https://geetanshgautam.wixsite.com/home/qa-ver2-product-page">Official Product Page</a>
 <br>
