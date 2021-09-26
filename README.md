@@ -139,7 +139,7 @@ Product Page
 
 # Changes to Specific Applications
 
-<strong><h2>Administrator Tools</h2></strong>
+<h2><strong>Administrator Tools</strong></h2>
 <details>
     <summary>
         Show changes to 'QA Admin Tools'
@@ -166,7 +166,7 @@ Product Page
     </ol>
 </details>
 
-<strong><h2>Quizzing Form</h2></strong>
+<h2><strong>Quizzing Form</strong></h2>
 <details>
     <summary>
         Show changes to 'QA Quizzing Form'
@@ -189,7 +189,7 @@ Product Page
     </ol>
 </details>
 
-<strong><h2>Recovery Utilities</h2></strong>
+<h2><strong>Recovery Utilities</strong></h2>
 <details>
     <summary>
         Show changes to 'QA Recovery Utilities'
@@ -215,7 +215,7 @@ Product Page
     </ol>
 </details>
 
-<strong><h2>Theming Utility</h2></strong>
+<h2><strong>Theming Utility</strong></h2>
 <details>
     <summary>
         Show changes to 'QA Theming Utility'
