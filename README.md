@@ -1,3 +1,5 @@
+<link rel="icon" href="/.icons/favicon.ico" type="image/x-icon" />
+
 # Quizzing Application 2.x
 # About
 <p><strong>Quizzing Application 2 is the second revision of a python application that you can use to test people, conduct trivia, etc.</strong></p>
